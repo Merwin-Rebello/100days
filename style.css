@@ -1,0 +1,8 @@
+#output{
+    background-color: rgb(251, 249, 249);
+    width: 100px;
+    height: 75px;
+    
+    border-width: 5px;
+    border-color: black;
+}
