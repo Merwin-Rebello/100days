@@ -9,3 +9,5 @@ Q3)take input from the user and print it on the screen
 Q4)TAKE input and create a button to delete it
 
 Q5)Take key and value par from user and localstorage, show it on dom on clickig sho and clear localstorag on clicking clear.
+
+Q6)Take input from checkbox from the user as Roll no and print it in div and than use buttons to submit and reset. 
