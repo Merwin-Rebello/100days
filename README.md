@@ -29,3 +29,5 @@ Q13)to make a digital clock using html and javascript
 Q14) RAANDOM password generator using python.
 
 Q15)added a button which notifies user when clicked
+
+Q16) Learnt to use media queries for the  initial stages.
