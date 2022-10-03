@@ -1,0 +1,23 @@
+.container{
+    height: 300px;
+    width: 300px ;
+    background-color: rgb(17, 15, 11);
+    margin: 50px 70px;
+
+}
+
+#btn{
+    margin:  75px 85px;
+}
+@media  (min-width: 250px)and (max-width:500px){
+    .container{
+        background-color: aqua;
+       height: 150px;
+       width: 200px;
+    }
+    #btn{
+        height: 15px;
+        width: 15px;
+    }
+    
+}
