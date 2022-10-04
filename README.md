@@ -31,3 +31,5 @@ Q14) RAANDOM password generator using python.
 Q15)added a button which notifies user when clicked
 
 Q16) Learnt to use media queries for the  initial stages.
+
+Q17) Print odd or even using javascript and understood textarea tag  in html.
