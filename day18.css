@@ -1,0 +1,16 @@
+body{
+    background-image: url('./images/photo-0.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    height: 65px;
+    width: 65px;
+    margin: 15px;
+}
