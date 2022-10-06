@@ -1,0 +1,32 @@
+.con1{
+    top: 50%;
+    left: 25%;
+    height: 250px;
+    padding: 50px;
+    display: flex;
+    float: right;
+    width:100px;
+}
+
+.con2{
+    top: 25%;
+    left: 25%;
+    height: 250px;
+    padding: 50px;
+    display: flex;
+    float: left;
+    width :100px;
+}
+
+.con1:hover{
+    background-image: url('./images/photo-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.con2:hover{
+    background-image: url('./images/photo-2.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
+
+}
