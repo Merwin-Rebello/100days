@@ -39,3 +39,5 @@ Q18) Using buttons to change the background image.
 Q19) Hover to change the background of the background. 
 
 Q20) find the year  using dob
+
+Q21) Took weigth as in kgs and converted it in to lbs.
