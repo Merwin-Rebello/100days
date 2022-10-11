@@ -45,3 +45,5 @@ Q21) Took weigth as in kgs and converted it in to lbs.
 Q22) button hover and shadow effect
 
 Q23) Created 2 pages and using a button to take back to the previous page.  
+
+Q24) Took 2 inputs from the user and printed te largest of that two.
