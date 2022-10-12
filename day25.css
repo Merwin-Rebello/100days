@@ -1,0 +1,23 @@
+.box1{
+    width: 75px;
+    height: 75px;
+    border-color: blue;
+    border-style:double;
+    cursor:url('./images/photo-1481349518771-20055b2a7b24.jpg'),pointer;
+}
+.box2{
+    width: 75px;
+    height: 75px;
+    border-color: rgb(247, 42, 15);
+    border-style:double;
+    padding-top: 50px;
+    cursor:help;
+}
+.box3{
+    width: 75px;
+    height: 75px;
+    border-color: rgb(220, 239, 4);
+    border-style:double;
+    padding-top: 50px;
+    cursor:wait;
+}
