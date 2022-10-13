@@ -49,3 +49,5 @@ Q23) Created 2 pages and using a button to take back to the previous page.
 Q24) Took 2 inputs from the user and printed te largest of that two.
 
 Q25) Learned to put custom cursor for websites
+
+Q26) To print how many calories are burnt.(for push ups  conversion rate from google)
