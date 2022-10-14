@@ -51,3 +51,5 @@ Q24) Took 2 inputs from the user and printed te largest of that two.
 Q25) Learned to put custom cursor for websites
 
 Q26) To print how many calories are burnt.(for push ups  conversion rate from google)
+
+Q27) to print the month using switch case
