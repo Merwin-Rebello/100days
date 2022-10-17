@@ -57,3 +57,5 @@ Q27) to print the month using switch case
 Q28) Wrote a js code to change text decoration on clicking button
 
 Q29) learnt prompt ,alert in javascript
+
+Q30) on click of the button image will appear on the div given.
