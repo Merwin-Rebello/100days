@@ -59,3 +59,5 @@ Q28) Wrote a js code to change text decoration on clicking button
 Q29) learnt prompt ,alert in javascript
 
 Q30) on click of the button image will appear on the div given.
+
+Q31) Creating a datalist search bar
