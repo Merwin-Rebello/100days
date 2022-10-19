@@ -61,3 +61,5 @@ Q29) learnt prompt ,alert in javascript
 Q30) on click of the button image will appear on the div given.
 
 Q31) Creating a datalist search bar
+
+Q32) updation of my datalist search bar
