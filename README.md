@@ -64,4 +64,4 @@ Q31) Creating a datalist search bar
 
 Q32) updation of my datalist search bar
 
-Q33) created form which takes values. Structured form 
+Q33) js code which will take value from the user , multiply it and then change the background colour according to the size of the number
