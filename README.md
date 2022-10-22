@@ -66,4 +66,4 @@ Q32) updation of my datalist search bar
 
 Q33) js code which will take value from the user , multiply it and then change the background colour according to the size of the number
 
-Q34) change the div size based on the user input
+Q34) Change text size based on the input range
