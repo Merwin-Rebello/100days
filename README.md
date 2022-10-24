@@ -69,3 +69,5 @@ Q33) js code which will take value from the user , multiply it and then change t
 Q34) Change  fontsize on the button increase and decrease
 
 Q35) Made my own calculator template
+
+Q36) Added java script to my calculator
