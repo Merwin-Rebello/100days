@@ -1,0 +1,2 @@
+a=document.querySelectorAll('numbers');
+
