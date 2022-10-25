@@ -70,4 +70,6 @@ Q34) Change  fontsize on the button increase and decrease
 
 Q35) Made my own calculator template
 
-Q36) Added java script to my calculator
+Q36) Added java script to my calculator(couldnt add much in javascript)
+
+Q37)  fully functional calculator made using js (small project completed)
