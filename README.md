@@ -75,3 +75,5 @@ Q36) Added java script to my calculator(couldnt add much in javascript)
 Q37)  fully functional calculator made using js (small project completed)
 
 Q38) I learnt to use the footer tag (did not explore much )
+
+Q39) learnt about the ARRAYs and its different functions present in js.
