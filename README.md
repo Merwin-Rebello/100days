@@ -8,13 +8,13 @@ Q3)take input from the user and print it on the screen
 
 Q4)TAKE input and create a button to delete it
 
-Q5)Take key and value par from user and localstorage, show it on dom on clickig sho and clear localstorag on clicking clear.
+Q5)Take key and value pair from user and localstorage, show it on dom on clicking show and clear localstorage on clicking clear.
 
 Q6)Take input from checkbox from the user as Roll no and print it in div and than use buttons to submit and reset. 
 
 Q7) learing and testing an new tag called audio tag and try  playiing songs
 
-Q8) Using the vedio tag and  learn things
+Q8) Using the video tag and  learn things
 
 Q9) Learnt to use dialog tag using javascript
 
