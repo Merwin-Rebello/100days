@@ -79,3 +79,5 @@ Q38) I learnt to use the footer tag (did not explore much )
 Q39) learnt about the ARRAYs and its different functions present in js.
 
 Q40) Learnt about fieldset and legend in HTML.
+
+Q41) LEARNT ABOUT OBJECTS
