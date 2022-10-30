@@ -81,3 +81,5 @@ Q39) learnt about the ARRAYs and its different functions present in js.
 Q40) Learnt about fieldset and legend in HTML.
 
 Q41) LEARNT ABOUT OBJECTS
+
+Q42) Started to learn react
