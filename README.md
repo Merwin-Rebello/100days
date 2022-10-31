@@ -82,4 +82,4 @@ Q40) Learnt about fieldset and legend in HTML.
 
 Q41) LEARNT ABOUT OBJECTS
 
-Q42) Started to learn react
+Q42)  Did some basicsof python(calander and conditional statements)
