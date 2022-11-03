@@ -87,3 +87,7 @@ Q42)  Did some basicsof python(calander and conditional statements)
 Q43) Python concepts(dictionary funcitons)
 
 Q44) Python concepts ( loops and dictionary).
+
+Q45) Pyhton concepts( sets and tuple).
+
+
