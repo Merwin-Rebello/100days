@@ -90,6 +90,6 @@ Q44) Python concepts ( loops and dictionary).
 
 Q45) Pyhton concepts( sets and tuple).
 
-Q46) Started to learn REEACT .
+Q46) Started to learn REACT JS
 
 
