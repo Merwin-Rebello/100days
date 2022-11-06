@@ -92,4 +92,6 @@ Q45) Pyhton concepts( sets and tuple).
 
 Q46) Started to learn REACT JS
 
+Q47) learnt custom components in react js
+
 
