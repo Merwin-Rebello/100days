@@ -1,4 +1,4 @@
-function maincontent(){
+function Maincontent(){
     return(<div>
         <h1>my react website</h1>
         <h2> Merwin Rebello here!!!</h2>
@@ -7,7 +7,7 @@ function maincontent(){
     )
 }
 
-function main2(){
+function Main2(){
    return( <div>
         <h2> INDIA will win the world cup in 2022</h2>
         <ul>
@@ -30,8 +30,8 @@ function Body(){
 
 ReactDOM.render(
     <div>
-        <maincontent />
-        <main2 />
+        <Maincontent />
+        <Main2 />
         <Body />
     </div>,
     document.getElementById('main')
