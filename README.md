@@ -82,7 +82,7 @@ Q40) Learnt about fieldset and legend in HTML.
 
 Q41) LEARNT ABOUT OBJECTS
 
-Q42)  Did some basicsof python(calander and conditional statements)
+Q42) Did some basics of python(calander and conditional statements)
 
 Q43) Python concepts(dictionary funcitons)
 
@@ -96,4 +96,6 @@ Q47) learnt custom components in react js
 
 Q48) Updated my e-commerce website(there won't be any file here of today)
 
-Q49) python oops concept
+Q49) Python oops concept
+
+Q50) Learnt about all the types of input tags in html
