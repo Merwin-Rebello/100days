@@ -99,3 +99,5 @@ Q48) Updated my e-commerce website(there won't be any file here of today)
 Q49) Python oops concept
 
 Q50) Learnt about all the types of input tags in html
+
+Q51) learnt more ways of writing react in different versions
