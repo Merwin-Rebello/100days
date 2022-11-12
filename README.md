@@ -103,3 +103,5 @@ Q50) Learnt about all the types of input tags in html
 Q51) learnt more ways of writing react in different versions
 
 Q52) Using Array as Stack (menu driven program)
+
+Q53) Made a static website using functions (react)
