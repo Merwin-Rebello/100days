@@ -107,3 +107,5 @@ Q52) Using Array as Stack (menu driven program)
 Q53) Made a static website using functions (react)
 
 Q54) Learnt about the parent , child component and made a page using it .
+
+Q55) learnt to add css to my static website.
