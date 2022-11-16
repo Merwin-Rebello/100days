@@ -111,3 +111,5 @@ Q54) Learnt about the parent , child component and made a page using it .
 Q55) learnt to add css to my static website.
 
 Q56) Made a website using react and adding links .
+
+Q57) Queue as linked list
