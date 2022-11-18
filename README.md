@@ -115,3 +115,5 @@ Q56) Made a website using react and adding links .
 Q57) Queue as linked list
 
 Q58) circular queue
+
+Q59) Learnt about props
