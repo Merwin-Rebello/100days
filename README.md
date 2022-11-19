@@ -117,3 +117,5 @@ Q57) Queue as linked list
 Q58) circular queue
 
 Q59) Learnt about props
+
+Q60) c code for finding the greatest of 3
