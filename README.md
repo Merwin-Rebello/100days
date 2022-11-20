@@ -119,3 +119,5 @@ Q58) circular queue
 Q59) Learnt about props
 
 Q60) c code for finding the greatest of 3
+
+Q61) c code for depth first search.
