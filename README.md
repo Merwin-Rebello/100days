@@ -127,3 +127,5 @@ Q62) check if a number is  even or odd AND along with even check it is divisible
 Q63) Calculate number of age .
 
 Q64) Switch case for months(as exams so  only small codes )
+
+Q65) Code for conversion betweem weight and lbs also bmi
