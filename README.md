@@ -131,3 +131,5 @@ Q64) Switch case for months(as exams so  only small codes )
 Q65) Code for conversion betweem weight and lbs also bmi
 
 Q66) To check if it a leap ear of not.
+
+Q67) factorial of a number.
