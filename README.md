@@ -133,3 +133,5 @@ Q65) Code for conversion betweem weight and lbs also bmi
 Q66) To check if it a leap ear of not.
 
 Q67) factorial of a number.
+
+Q68) linear search code
