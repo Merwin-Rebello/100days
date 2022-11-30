@@ -135,3 +135,5 @@ Q66) To check if it a leap ear of not.
 Q67) factorial of a number.
 
 Q68) linear search code
+
+Q69) using funcitons in c for even odd
