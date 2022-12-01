@@ -137,3 +137,5 @@ Q67) factorial of a number.
 Q68) linear search code
 
 Q69) using funcitons in c for even odd
+
+Q70) Learnt too create the header file in c
