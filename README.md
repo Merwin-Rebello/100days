@@ -138,4 +138,6 @@ Q68) linear search code
 
 Q69) using funcitons in c for even odd
 
-Q70) Learnt too create the header file in c
+Q70) Learnt too create the header file in C.
+
+Q71) Average of sem marks and give grades too
