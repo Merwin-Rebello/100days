@@ -141,3 +141,5 @@ Q69) using funcitons in c for even odd
 Q70) Learnt too create the header file in C.
 
 Q71) Average of sem marks and give grades too
+
+Q72) C code for reverse of a number & did some work on my miniproject work so a simple code here..
