@@ -145,3 +145,5 @@ Q71) Average of sem marks and give grades too
 Q72) C code for reverse of a number & did some work on my miniproject work so a simple code here..
 
 Q73) c code for  fabonacci series
+
+Q74) Did a proper setup for react and also learnt hoe to link pages in html only with out js
