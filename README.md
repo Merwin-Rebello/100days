@@ -149,3 +149,5 @@ Q73) c code for  fabonacci series
 Q74) Did a proper setup for react and also learnt hoe to link pages in html only with out js
 
 Q75) learnt about the concepts of arrays in javascript
+
+Q76) learnt about the conepts of loops in javascript
