@@ -151,3 +151,5 @@ Q74) Did a proper setup for react and also learnt hoe to link pages in html only
 Q75) learnt about the concepts of arrays in javascript
 
 Q76) learnt about the conepts of loops in javascript
+
+Q77) learnt about the filter, map and reduce. 
