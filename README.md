@@ -154,4 +154,4 @@ Q76) learnt about the conepts of loops in javascript
 
 Q77) learnt about the filter, map and reduce. 
 
-Q78) learnt about promises in javascript
+Q78) learnt about introduction of promises in javascript
