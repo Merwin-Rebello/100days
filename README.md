@@ -155,3 +155,5 @@ Q76) learnt about the conepts of loops in javascript
 Q77) learnt about the filter, map and reduce. 
 
 Q78) learnt about introduction of promises in javascript
+
+Q79)  understanding .then() and .catch() in promises also resolve and reject
