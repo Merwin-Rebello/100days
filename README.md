@@ -157,3 +157,5 @@ Q77) learnt about the filter, map and reduce.
 Q78) learnt about introduction of promises in javascript
 
 Q79)  understanding .then() and .catch() in promises also resolve and reject
+
+Q80) learnt about some unique html tools which can be used in websites
