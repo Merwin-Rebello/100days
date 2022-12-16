@@ -166,3 +166,5 @@ Q82)  understood about promise chaning.
 
 Q83) understanding about DOM, BOM and window object
 
+Q84) Learnt about aysnc and await .
+
