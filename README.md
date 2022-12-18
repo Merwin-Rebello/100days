@@ -170,5 +170,5 @@ Q84) Learnt about aysnc and await .
 
 Q85) started creation of my sports information website.
 
-Q86) Making sports info website for media quieries
+Q86) python code for factorial of numbers
 
