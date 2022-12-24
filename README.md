@@ -178,6 +178,8 @@ Q88) learnt about cookies
 
 Q89) Using the geolocation library present in javascript to find the currentposition of a person .
 
-Q90) using python to convert degree celsius to farhenhite and Amstrong .
+Q90) Using python to convert degree celsius to farhenhite and Amstrong .
 
-Q91) created my first react app by downloading all the packages but initally not added anything by me yet and learnt about funcitons in javascripts
+Q91) Created my first react app by downloading all the packages but initally not added anything by me yet and learnt about funcitons in javascripts
+
+Q92) Conversion of decimal number into hex,octal and binary using python.
