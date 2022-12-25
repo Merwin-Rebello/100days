@@ -183,3 +183,5 @@ Q90) Using python to convert degree celsius to farhenhite and Amstrong .
 Q91) Created my first react app by downloading all the packages but initally not added anything by me yet and learnt about funcitons in javascripts
 
 Q92) Conversion of decimal number into hex,octal and binary using python.
+
+Q93) matrix multiplication  
