@@ -185,3 +185,5 @@ Q91) Created my first react app by downloading all the packages but initally not
 Q92) Conversion of decimal number into hex,octal and binary using python.
 
 Q93) matrix multiplication  
+
+Q94) calculator code py
