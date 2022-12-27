@@ -187,3 +187,5 @@ Q92) Conversion of decimal number into hex,octal and binary using python.
 Q93) matrix multiplication  
 
 Q94) calculator code py
+
+Q95) Program to sort alphabetically the words form a string provided by the user
