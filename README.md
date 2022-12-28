@@ -189,3 +189,5 @@ Q93) matrix multiplication
 Q94) calculator code py
 
 Q95) Program to sort alphabetically the words form a string provided by the user
+
+Q96) program ti find ascii value of  character using python .
