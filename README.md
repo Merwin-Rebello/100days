@@ -190,4 +190,7 @@ Q94) calculator code py
 
 Q95) Program to sort alphabetically the words form a string provided by the user
 
-Q96) program ti find ascii value of  character using python .
+Q96) program to find ascii value of  character using python .
+
+Q97) To remove punctuation marks from a string
+
