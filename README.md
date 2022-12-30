@@ -194,3 +194,5 @@ Q96) program to find ascii value of  character using python .
 
 Q97) To remove punctuation marks from a string
 
+Q98) Ploty library in js 
+
