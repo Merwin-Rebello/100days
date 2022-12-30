@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<body>
+
+<div id="Ploty" style="width:100%;max-width:800px"></div>
+
+<script>
+var xArray = [10,20,30,40,40,100,180,190,70,200];
+var yArray = [5,11,11,42,32,25,35,50,60,100];
+
+// Defining the Data of the coordinates and the mode of plotting the pts
+var data = [{
+  x:xArray,
+  y:yArray,
+  mode:"bar"
+}];
+
+// Defining the Data of the graph
+var layout = {
+  xaxis: {range: [10, 200], title: "X Data"},
+  yaxis: {range: [5, 100], title: "Y Data"},  
+  title: "Ploty Library of JavaScript"
+};
+
+// Display using the Ploty Library
+Plotly.newPlot("Ploty", data, layout);
+</script>
+
+</body>
+</html>
