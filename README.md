@@ -196,3 +196,5 @@ Q97) To remove punctuation marks from a string
 
 Q98) Ploty library in js 
 
+Q99) learnt how to merge dictionaries using different ways 
+
