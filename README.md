@@ -200,3 +200,5 @@ Q99) learnt how to merge dictionaries using different ways
 
 Q100) Small turtle program to make a heart for the beginning of the new year!!!
 
+Day101-> Started learning mySQL ->learned to create database and tables 
+
