@@ -202,3 +202,5 @@ Q100) Small turtle program to make a heart for the beginning of the new year!!!
 
 Day101-> Started learning mySQL ->learned to create database and tables 
 
+Day102-> Learnt how to add records i.e rows of data one by one and also multiple rows at a time
+
