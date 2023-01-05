@@ -204,3 +204,5 @@ Day101-> Started learning mySQL ->learned to create database and tables
 
 Day102-> Learnt how to add records i.e rows of data one by one and also multiple rows at a time
 
+Day103-> learnt constraints
+
