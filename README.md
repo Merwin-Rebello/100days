@@ -208,5 +208,7 @@ Day103-> learnt constraints in mysql
 
 Day104-> learnt about select clause with WHERE.
 
+Day105-> learnt about AND OR and NOT operators 
+
 
 
