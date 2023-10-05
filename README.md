@@ -2,17 +2,17 @@
 
 Q1) Make a form  take the values and store it in the sessionstorage
 
-Q2)take the color from the user and change the background color
+Q2) Take the color from the user and change the background color
 
-Q3)take input from the user and print it on the screen
+Q3) Take input from the user and print it on the screen
 
-Q4)TAKE input and create a button to delete it
+Q4) Take input and create a button to delete it
 
-Q5)Take key and value pair from user and localstorage, show it on dom on clicking show and clear localstorage on clicking clear.
+Q5) Take key and value pair from user and localstorage, show it on dom on clicking show and clear localstorage on clicking clear.
 
-Q6)Take input from checkbox from the user as Roll no and print it in div and than use buttons to submit and reset. 
+Q6) Take input from checkbox from the user as Roll no and print it in div and than use buttons to submit and reset. 
 
-Q7) learing and testing an new tag called audio tag and try  playiing songs
+Q7) Learing and testing an new tag called audio tag and try  playiing songs
 
 Q8) Using the video tag and  learn things
 
